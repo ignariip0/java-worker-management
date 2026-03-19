@@ -1,5 +1,5 @@
-Título: Java Worker Management
-Conteúdo:
+Java Worker Management
+
 Study project from Nélio Alves' Java course.
 
 Concepts practiced:
